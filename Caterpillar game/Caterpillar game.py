@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[11]:
-
-
 import turtle as t
 import random as rd
 
@@ -117,16 +111,3 @@ t.onkey(move_left,'Left')
 #t.onkey(exit,'enter')
 t.listen()
 t.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
